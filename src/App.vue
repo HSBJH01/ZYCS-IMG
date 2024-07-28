@@ -5,9 +5,9 @@
       <h2>每一张照片，都是时光的标本</h2>
       <h2>每一张笑脸，都是温暖的记忆</h2>
       <div class="desc">
-        <p>无限图片储存数量，你可以上传不限数量的图片！</p>
-        <p>图片首次访问后缓存，"永久"有效，包括全球分布的 CDN，以确保尽可能快地提供图像.</p>
-        <p>项目使用无服务器服务搭建，托管在 <a-tag color="gray"><template #icon><icon-cloud /></template>Cloudflare Pages</a-tag> 上运行. </p>
+        <p>捕捉瞬间  永久保存</p>
+        <p>无限空间  无限回忆</p>
+        <p>安全存储  轻松分享</p>
       </div>
     </header>
     <main>
